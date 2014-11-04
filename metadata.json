@@ -1,7 +1,7 @@
 {
     "name":"Infinity",
-    "thumbnail":"verbier.png",
-    "screenshot":"verbier.png",
+    "thumbnail":"infinity.png",
+    "screenshot":"infinity.png",
     "templateType":"standard",
     "pageTypes": ["home"],
     "images":[
