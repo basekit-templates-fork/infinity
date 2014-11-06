@@ -1,4 +1,4 @@
-Verbier
+Infinity
 ======
 
-Basekit Standard Template
+eNom Software engineering template
