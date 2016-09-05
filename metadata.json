@@ -1,65 +1,69 @@
 {
-    "name":"Infinity",
-    "thumbnail":"infinity.png",
-    "screenshot":"infinity.png",
-    "templateType":"standard",
-    "pageTypes": ["home"],
-    "images":[
+    "name": "Infinity",
+    "thumbnail": "infinity.png",
+    "screenshot": "infinity-screenshot.jpg",
+    "templateType": "standard",
+    "pageTypes": [
+        "home"
+    ],
+    "images": [
         "images/image-1.jpg"
     ],
     "tags": {
-    "en": ["clean", "minimal"]
+        "en": [
+            "clean",
+            "minimal"
+        ]
     },
-    "colorSwatches":
-    {
+    "colorSwatches": {
         "Swatch 1": {
-            "color1":"#ffffff",
-            "color2":"#282828",
-            "color3":"#20adda",
-            "color4":"#282828",
-            "color5":"#646464",
-            "color6":"#282828",
-            "color7":"#f1f1f1"
+            "color1": "#ffffff",
+            "color2": "#282828",
+            "color3": "#20adda",
+            "color4": "#282828",
+            "color5": "#646464",
+            "color6": "#282828",
+            "color7": "#f1f1f1"
         },
         "Swatch 2": {
-            "color1":"#ffffff",
-            "color2":"#0c0c0c",
-            "color3":"#9154a2",
-            "color4":"#0c0c0c",
-            "color5":"#646464",
-            "color6":"#282828",
-            "color7":"#f0f0f0"
+            "color1": "#ffffff",
+            "color2": "#0c0c0c",
+            "color3": "#9154a2",
+            "color4": "#0c0c0c",
+            "color5": "#646464",
+            "color6": "#282828",
+            "color7": "#f0f0f0"
         },
         "Swatch 3": {
-            "color1":"#ffffff",
-            "color2":"#0c0c0c",
-            "color3":"#e8098b",
-            "color4":"#0c0c0c",
-            "color5":"#646464",
-            "color6":"#282828",
-            "color7":"#f0f0f0"
+            "color1": "#ffffff",
+            "color2": "#0c0c0c",
+            "color3": "#e8098b",
+            "color4": "#0c0c0c",
+            "color5": "#646464",
+            "color6": "#282828",
+            "color7": "#f0f0f0"
         },
         "Swatch 4": {
-            "color1":"#ffffff",
-            "color2":"#0c0c0c",
-            "color3":"#e2d056",
-            "color4":"#0c0c0c",
-            "color5":"#646464",
-            "color6":"#282828",
-            "color7":"#f0f0f0"
+            "color1": "#ffffff",
+            "color2": "#0c0c0c",
+            "color3": "#e2d056",
+            "color4": "#0c0c0c",
+            "color5": "#646464",
+            "color6": "#282828",
+            "color7": "#f0f0f0"
         },
         "Swatch 5": {
-            "color1":"#ffffff",
-            "color2":"#0c0c0c",
-            "color3":"#41a28e",
-            "color4":"#0c0c0c",
-            "color5":"#646464",
-            "color6":"#282828",
-            "color7":"#f0f0f0"
+            "color1": "#ffffff",
+            "color2": "#0c0c0c",
+            "color3": "#41a28e",
+            "color4": "#0c0c0c",
+            "color5": "#646464",
+            "color6": "#282828",
+            "color7": "#f0f0f0"
         }
     },
     "fontSwatch": {
-       "title": "Merriweather",
+        "title": "Merriweather",
         "font1": {
             "font-family": "\"Courier New\", monospace",
             "font-size": "38px",
